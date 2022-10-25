@@ -1,0 +1,3 @@
+- 👋 ola, eu sou @hendrade
+- 👀 eu estou interessado em programar
+- 🌱 eu estou aprendendo a programar recentimente
